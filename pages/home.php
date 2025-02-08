@@ -126,7 +126,7 @@ document.addEventListener("DOMContentLoaded", () => {
     <!-- Visi Misi Sekolah Section -->
     <section id="visi-misi" class="scroll-effect">
     <div class="gambar-container">
-        <img src="../uploads/images/anak tk-visi misi.png" alt="Anak-anak">
+        <img src="../uploads/images/anak tk-visi misi new.png" alt="Anak-anak">
     </div>
     <div class="visi-container">
         <h2>Visi Misi Sekolah</h2>
@@ -147,9 +147,9 @@ document.addEventListener("DOMContentLoaded", () => {
         <div class="profile-grid">
         <!-- Kepala Sekolah -->
             <div class="profile-card">
-                <img src="../uploads/images/kepala sekolah.png" alt="Kepala Sekolah">
+                <img src="../uploads/images/kepala sekolah tk baru.png" alt="Kepala Sekolah">
                 <div class="info">
-                <p class="name">EISINAR GRISANG, S.Pd Sd</p>
+                <p class="name">NORMAN,S.Pd.SD</p>
                 <p class="role">KEPALA SEKOLAH</p>
                 </div>
             </div>
@@ -158,9 +158,9 @@ document.addEventListener("DOMContentLoaded", () => {
             <div class="profile-grid guru-grid">
             <!-- Guru 1 -->
             <div class="profile-card">
-                <img src="../uploads/images/mamak.png" alt="Guru Maryanti">
+                <img src="../uploads/images/bu linda.png" alt="Guru Linda">
                 <div class="info">
-                <p class="name">MARYANTI</p>
+                <p class="name">LINDA FENRIANUS S.Pd AUD</p>
                 <p class="role">GURU</p>
                 </div>
             </div>
@@ -174,9 +174,9 @@ document.addEventListener("DOMContentLoaded", () => {
             </div>
             <!-- Guru 3 -->
             <div class="profile-card">
-                <img src="../uploads/images/bu linda.png" alt="Guru Linda">
+                <img src="../uploads/images/mamak.png" alt="Guru Maryanti">
                 <div class="info">
-                <p class="name">LINDA FENRIANUS S.Pd AUD</p>
+                <p class="name">MARYANTI</p>
                 <p class="role">GURU</p>
                 </div>
             </div>

@@ -32,6 +32,7 @@ checkRole('admin');
         <!-- Main Content -->
         <div class="main-content">
             <header>
+                <button class="toggle-btn"><i class="fas fa-bars"></i></button>
                 <h1>Dashboard Admin</h1>
                 <div class="user-info">
                     <span>Welcome, Admin</span>
@@ -67,5 +68,12 @@ checkRole('admin');
             </main>
         </div>
     </div>
+
+    <script>
+        // Toggle sidebar
+        document.querySelector('.toggle-btn').addEventListener('click', function () {
+            document.querySelector('.sidebar').classList.toggle('show');
+        });
+    </script>
 </body>
 </html>
